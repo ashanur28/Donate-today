@@ -157,3 +157,35 @@ body {
 .contact {
     text-align: center;
 }
+
+.email {
+    display: flex;
+    background-color: rgba(233, 150, 122, 0.655);
+    height: 150px;
+    width: 800px;
+    margin-left: 400px;
+    margin-top: 50px;
+    border: 0px solid black;
+    border-radius: 7px;
+}
+
+.email2 {
+    color: rgba(128, 128, 128, 0.696);
+    padding-top: 35px;
+    border-width: 10px;
+    text-align: center;
+    width: 30%;
+}
+
+.mail {
+    background-color: rgba(128, 128, 128, 0.282);
+    margin-top: 60px;
+    margin-bottom: 5px;
+    margin-left: 100px;
+    height: 35px;
+    width: 350px;
+    border: 0px solid red;
+    border-radius: 5px;
+    font-size: larger;
+    border-left: 10px;
+}
