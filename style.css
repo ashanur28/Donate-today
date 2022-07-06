@@ -3,7 +3,7 @@ body {
 }
 
 .Donate {
-    background-image: url(images/donation5.jpg);
+    background-image: url(images/donation9.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 715px;
@@ -13,14 +13,23 @@ body {
 }
 
 .Donate-now {
-    color: rgb(240, 237, 237);
+    color: rgb(240, 246, 240);
     text-align: center;
-    padding-top: 450px;
+    padding-top: 350px;
     font-size: larger;
     font-weight: bolder;
 }
 
-.submit {
-    background-color: tomato;
-    border-color: ;
+.paragraph {
+    font-weight: 500;
+    color: rgba(249, 244, 244, 0.738);
+}
+
+.button {
+    text-decoration: none;
+    background-image: linear-gradient(tomato, rgba(227, 15, 29, 0.789));
+    color: white;
+    font-weight: 300;
+    padding: 10px 10px;
+    border-radius: 5px;
 }
