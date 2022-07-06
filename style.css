@@ -123,3 +123,33 @@ body {
     display: flex;
     padding-left: 250px;
 }
+
+.section2 {
+    display: flex;
+    margin-top: 100px;
+}
+
+.contribute {
+    height: 550px;
+    margin-top: 250px;
+    width: 550px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+.section2 img {
+    height: 550px;
+    width: 80%;
+    margin-top: 140px;
+    border: 1px solid grey;
+    border-radius: 5px;
+}
+
+.link {
+    text-decoration: none;
+    background-image: linear-gradient(tomato, rgba(227, 15, 29, 0.789));
+    color: white;
+    font-weight: 300;
+    padding: 10px 10px;
+    border-radius: 5px;
+}
