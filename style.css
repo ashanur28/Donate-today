@@ -48,10 +48,19 @@ body {
 }
 
 .padding {
-    padding-right: 25px;
+    padding-right: 30px;
 }
 
-#design {
-    border: 2px 2px 2px 2px;
-    border-color: black;
+.style {
+    border: 5px solid red;
+    background-color: rgba(255, 99, 71, 0.408);
+    height: 100%;
+}
+
+.amount {
+    color: rgba(128, 128, 128, 0.696);
+    padding-top: 35px;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.605);
+    text-align: center;
+    width: 30%;
 }
