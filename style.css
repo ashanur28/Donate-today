@@ -64,3 +64,20 @@ body {
     text-align: center;
     width: 30%;
 }
+
+.now {
+    text-decoration: none;
+    background-image: linear-gradient(tomato, rgba(227, 15, 29, 0.789));
+    color: white;
+    font-weight: 300;
+    padding: 10px 10px;
+    border-radius: 5px;
+
+}
+
+.text {
+    padding-left: 700px;
+    padding-top: 25px;
+
+
+}
