@@ -38,3 +38,20 @@ body {
     padding-top: 85px;
     text-align: center;
 }
+
+.tk {
+    display: flex;
+    padding-left: 550px;
+    padding-top: 20px;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+.padding {
+    padding-right: 25px;
+}
+
+#design {
+    border: 2px 2px 2px 2px;
+    border-color: black;
+}
