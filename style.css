@@ -1,0 +1,26 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.Donate {
+    background-image: url(images/donation5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 715px;
+    width: 100%;
+    padding: 0x;
+    margin: 0 px;
+}
+
+.Donate-now {
+    color: rgb(240, 237, 237);
+    text-align: center;
+    padding-top: 450px;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+.submit {
+    background-color: tomato;
+    border-color: ;
+}
